@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Central Park Reservoir</name>
+    <Placemark>
+      <name>Reservoir Boundary</name>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -73.9620,40.7850,0
+              -73.9580,40.7850,0
+              -73.9580,40.7885,0
+              -73.9620,40.7885,0
+              -73.9620,40.7850,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
